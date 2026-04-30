@@ -65,11 +65,14 @@
 ```
 ```yaml
 name     : "Shivang Bhardwaj"
-role     : "DevOps Intern @ KubeRox Technologies"
+role     : "DevOps Engineer @KubeRox Technologies"
 location : "Hyderabad, Telangana 🇮🇳"
 education: "ECE Graduate"
 
 certifications:
+  - "NCS — Nutanix Certified Services – Core (NCS-Core) 6.8"
+  - "NCP MCI — Nutanix Certified Professional — Multicloud Infrastructure 6"
+  - "NCA —  Nutanix Certified Associated"
   - "RHCSA  — EX200 Red Hat Sys Admin"
   - "RHOCP  — OpenShift Container Platform"
   - "Google Cloud Arcade Achiever"
